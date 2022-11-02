@@ -1,0 +1,1 @@
+Second project from The Odin Project curriculum focusing on flexbox manipulation. Project provides an image of completed site to replicate and an image of minor details (e.g. fonts, colors, etc); nothing else is provided for the project.
